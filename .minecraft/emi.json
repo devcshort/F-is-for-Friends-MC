@@ -1,0 +1,38 @@
+{
+  "favorites": [],
+  "lookup_history": [],
+  "craft_history": [
+    "minecraft:bread",
+    "minecraft:torch",
+    "minecraft:cauldron",
+    "minecraft:iron_hoe",
+    "minecraft:iron_shovel",
+    "minecraft:cobblestone_wall",
+    "minecraft:bucket",
+    "minecraft:iron_pickaxe",
+    "minecraft:white_bed",
+    "minecraft:oak_fence",
+    "minecraft:chest",
+    "minecraft:oak_planks",
+    "minecraft:oak_boat",
+    "minecraft:iron_sword",
+    "minecraft:iron_helmet",
+    "minecraft:iron_boots",
+    "minecraft:iron_leggings",
+    "minecraft:birch_door",
+    "minecraft:birch_planks",
+    "minecraft:spruce_planks",
+    "minecraft:stone_sword",
+    "minecraft:stick",
+    "minecraft:furnace",
+    "minecraft:stone_axe",
+    "minecraft:stone_shovel",
+    "minecraft:stone_pickaxe",
+    "minecraft:wooden_pickaxe",
+    "minecraft:crafting_table"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "disabled": []
+  }
+}
